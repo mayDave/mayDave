@@ -1,9 +1,8 @@
 ## Loading . . .
 Newly graduated and looking to siege the gaming industry.
 
-![](https://img.shields.io/badge/Languages-C%23-informational?style=flat&logo=c%20sharp&logoColor=white&color=111111) 
-![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=222222) 
-![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual%20studio&logoColor=white&color=333333)
+![](https://img.shields.io/badge/Languages-C%23-informational?style=flat&logo=c%20sharp&logoColor=white&color=151515) 
+![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=151515)
 
 - [Portfolio Website](https://maydave.github.io)
 
