@@ -1,9 +1,12 @@
-### Hi there 👋
+### Loading . . .
 
 <!--
-**mayDave/mayDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ideas & new stuff:
 
-Here are some ideas to get you started:
+https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file#-the-first-step--set-up-the-github-repository
+https://zzetao.github.io/awesome-github-profile/
+https://github.com/lowlighter/metrics
+https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
