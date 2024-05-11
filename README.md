@@ -1,4 +1,19 @@
-### Loading . . .
+## Loading . . .
+
+![](https://img.shields.io/badge/Languages-C%23-informational?style=flat&logo=c%20sharp&logoColor=white&color=111111)
+![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=222222)
+![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visual%20studio&logoColor=white&color=333333)
+
+[Portfolio Website](https://maydave.github.io)
+
+### Projects
+
+In progress...
+
+Completed...
+
+### Contacts
+[📧 adavide8@gmail.it](mailto:adavide8@gmail.com) 
 
 <!--
 ideas & new stuff:
